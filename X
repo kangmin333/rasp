@@ -1,0 +1,6 @@
+if(condition):
+print('ture')
+else:
+print('false')
+for i in range(10):
+print(i)
